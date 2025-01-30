@@ -617,6 +617,9 @@
   .h-screen {
     height: 100vh;
   }
+  .h-svh {
+    height: 100svh;
+  }
   .w-21 {
     width: calc(var(--spacing) * 21);
   }
